@@ -1,0 +1,9 @@
+[submodule "alarm-project"]
+	path = alarm-project
+	url = https://github.com/Sombrero1/alarm-project
+[submodule "iot_project"]
+	path = iot_project
+	url = https://github.com/Sombrero1/iot_project
+[submodule "nucleo_wifi_project"]
+	path = nucleo_wifi_project
+	url = https://github.com/Sombrero1/nucleo_wifi_project
